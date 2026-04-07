@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FOUNDRY_API_KEY": "<your-azure-ai-foundry-api-key>",
+    "FOUNDRY_ENDPOINT": "https://<your-resource>.services.ai.azure.com/anthropic",
+    "SUBSCRIPTION_ID": "<your-azure-subscription-id>",
+    "RESOURCE_GROUP": "<your-resource-group-name>",
+    "WORKSPACE_NAME": "<your-log-analytics-workspace-name>",
+    "WORKSPACE_ID": "<your-log-analytics-workspace-id>",
+    "ORGANIZATION_NAME": "<your-organization-name>"
+  }
+}
